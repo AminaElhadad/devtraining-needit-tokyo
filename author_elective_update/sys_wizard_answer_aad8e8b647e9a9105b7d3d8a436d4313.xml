@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Needlt Tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needlt Tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c101af86470121105b7d3d8a436d43ee</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-16 17:41:20</sys_created_on>
+        <sys_id>aad8e8b647e9a9105b7d3d8a436d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needlt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_aad8e8b647e9a9105b7d3d8a436d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-16 17:41:20</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_needlt_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>37ed1b0edb09e5d00b9d21c405961901</instance_id>
+        <instance_name>dev149984</instance_name>
+        <name>sys_wizard_answer_aad8e8b647e9a9105b7d3d8a436d4313</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Needlt Tasks</answer><button_label/><dependent_value/><element/><name>Needlt Tasks</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">c101af86470121105b7d3d8a436d43ee</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-16 17:41:20</sys_created_on><sys_id>aad8e8b647e9a9105b7d3d8a436d4313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needlt Tasks</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_wizard_answer_aad8e8b647e9a9105b7d3d8a436d4313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-16 17:41:20</sys_updated_on><table/><target_url>x_58872_needit_needlt_tasks.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1882222853</payload_hash>
+        <record_name>Needlt Tasks</record_name>
+        <reverted_from/>
+        <source>b1113702470121105b7d3d8a436d4313</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-18 03:49:21</sys_created_on>
+        <sys_id>3f69a4f647e9a9105b7d3d8a436d432c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18662a401e80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>fb69a4f679e9a9101f8d100492541e2c</update_guid>
+        <update_guid_history>fb69a4f679e9a9101f8d100492541e2c:1882222853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-16 17:43:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0869c58a85c84bc080670769d2569000</sys_id>
+        <sys_metadata>aad8e8b647e9a9105b7d3d8a436d4313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needlt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Task">c101af86470121105b7d3d8a436d43ee</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_aad8e8b647e9a9105b7d3d8a436d4313</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_aad8e8b647e9a9105b7d3d8a436d4313">3f69a4f647e9a9105b7d3d8a436d432c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-16 17:43:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
